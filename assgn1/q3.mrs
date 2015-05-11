@@ -1,0 +1,4 @@
+Series {
+	-> SoundFileSource {filename = "/home/swapnil/Dropbox/SMC/Master_Thesis/TablaDB_final/wav/ajr_9.wav"}
+	-> AudioSink
+}
